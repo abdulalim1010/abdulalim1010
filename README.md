@@ -1,3 +1,9 @@
+![Banner](https://i.ibb.co.com/v6J5fdH5/Gold-Modern-Personal-Linked-In-Banner.png)
+
+
+
+
+
 # 👋 Hi, I'm Md Abdul Alim
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
