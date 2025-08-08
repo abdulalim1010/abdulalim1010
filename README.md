@@ -36,8 +36,8 @@
 
 ### 📌 Featured Projects
 
-- 🚚 [Parcel Delivery App (React + Firebase)](https://github.com/abdulalim1010/parcel-delivery)
-- 📰 [News Portal with Admin Dashboard](https://github.com/abdulalim1010/news-dashboard)
+- 🚚 [News-papers (React + Firebase+dashborard+payment sysytem)](:https://nwespapers.web.app/)
+- 📰 [carrer code devlopmentd](https://carrer-code-ab693.web.app/)
 - 🎓 [garden website Website with Gallery & Time Table](https://mango-auth-687b6.web.app/)
 - 📂 [Portfolio with Dark Mode & Animations](https://github.com/abdulalim1010/my-portfolio)
 
