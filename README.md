@@ -1,14 +1,13 @@
 # Hi there 👋, I'm Md Abdul Alim
 
-🚀 Frontend Developer | 💡 Lifelong Learner | 💻 React Enthusiast  
-
+Full Stack Developer,🚀 Frontend Developer | 💡 Lifelong Learner | 💻 e.g., , Web Developer, 
 ---
 
 ### 🌟 About Me
 - 🌱 I’m currently learning Full-Stack Development (MERN)
 - 💼 I'm passionate about building responsive & dynamic web apps
-- 🌐 Portfolio: [alim-portfolio.com](https://your-portfolio-link.com)
-- ✉️ Email: alim@example.com
+- 
+- ✉️ Email: abdulalim243457@gmail.com
 
 ---
 
