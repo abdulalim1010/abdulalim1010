@@ -1,13 +1,15 @@
-# Hi there 👋, I'm Md Abdul Alim
+# 👋 Hi, I'm Md Abdul Alim
 
-Full Stack Developer,🚀 Frontend Developer | 💡 Lifelong Learner | 💻 e.g., , Web Developer, 
+🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
+🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
+
 ---
 
-### 🌟 About Me
-- 🌱 I’m currently learning Full-Stack Development (MERN)
-- 💼 I'm passionate about building responsive & dynamic web apps
-- 
-- ✉️ Email: abdulalim243457@gmail.com
+### 💫 About Me
+- 🎓 Frontend Developer from Rangpur, Bangladesh
+- 🛠️ Working with React, Tailwind, Node.js, MongoDB, and Firebase
+- 📚 Currently learning advanced **Next.js** and **DevOps basics**
+- 🌱 Always open to collaborating on MERN Stack or modern web projects
 
 ---
 
@@ -21,16 +23,41 @@ Full Stack Developer,🚀 Frontend Developer | 💡 Lifelong Learner | 💻 e.g.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
+---
+
+### 📌 Featured Projects
+
+- 🚚 [Parcel Delivery App (React + Firebase)](https://github.com/abdulalim1010/parcel-delivery)
+- 📰 [News Portal with Admin Dashboard](https://github.com/abdulalim1010/news-dashboard)
+- 🎓 [School Website with Gallery & Time Table](https://github.com/abdulalim1010/school-web)
+- 📂 [Portfolio with Dark Mode & Animations](https://github.com/abdulalim1010/my-portfolio)
+
+> 🔗 *More projects on my profile → Visit the pinned repositories*
 
 ---
 
 ### 📊 GitHub Stats
-![Alim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alim-dev&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alim-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Alim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulalim1010&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalim1010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### 🔗 Connect with me:
+
+### 🔗 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-alim-436464236/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/abdul.alim.75450)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+---
+
+### 📫 Portfolio:
+**🌐 Coming soon** — *Your personal portfolio website link will go here*
+
+---
+
+*Thank you for visiting my profile! Let's connect and build something amazing together.* 🚀
