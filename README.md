@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/v6J5fdH5/Gold-Modern-Personal-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/TdjnH4L/Gold-Modern-Personal-Linked-In-Banner-1.png)
 
 
 
