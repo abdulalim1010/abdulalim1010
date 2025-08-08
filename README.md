@@ -25,8 +25,7 @@ Full Stack Developer,🚀 Frontend Developer | 💡 Lifelong Learner | 💻 e.g.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alim-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/abdul.alim.75450)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-alim-436464236/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/abdul.alim.75450)
 
