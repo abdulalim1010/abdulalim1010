@@ -57,6 +57,10 @@
 
 ### 📫 Portfolio:
 **🌐 Coming soon** — *Your personal portfolio website link will go here*
+### 🐍 Latest Contribution Graph Animation
+
+![snake gif](https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
