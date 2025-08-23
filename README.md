@@ -1,5 +1,6 @@
 ## Hi there 👋
 thik ase ki # 👋 Hi, I'm Md Abdul Alim
+![Profile Image](https://i.ibb.co.com/k628Wy8J/Abstract-Technology-Profile-Linked-In-Banner.png)
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
 🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
@@ -57,7 +58,7 @@ thik ase ki # 👋 Hi, I'm Md Abdul Alim
 ---
 
 ### 📫 Portfolio:
-**🌐 [My Portfolio](https://portfolio-ec476.web.app/)** — *Check out my personal website*
+**🌐 [My Portfolio](https://portfolio-ec476.web.app/)**
 
 ### 🐍 Latest Contribution Graph Animation
 
