@@ -52,12 +52,13 @@ thik ase ki # 👋 Hi, I'm Md Abdul Alim
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-alim-436464236/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/abdul.alim.75450)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](eee12016032.brur@gmail.com)
 
 ---
 
 ### 📫 Portfolio:
-**🌐 Coming soon** — *Your personal portfolio website link will go here*
+**🌐 [My Portfolio](https://portfolio-ec476.web.app/)** — *Check out my personal website*
+
 ### 🐍 Latest Contribution Graph Animation
 
 ![snake gif](https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.svg)
