@@ -1,5 +1,5 @@
 ## Hi there 👋
-thik ase ki # 👋 Hi, I'm Md Abdul Alim
+#👋** Hi, I'm Md Abdul Alim**
 ![Profile Image](https://i.ibb.co.com/k628Wy8J/Abstract-Technology-Profile-Linked-In-Banner.png)
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
