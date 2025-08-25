@@ -35,7 +35,7 @@
 - 🚚 [Parcel Delivery App (React + Firebase)](https://github.com/abdulalim1010/parcel-delivery)
 - 📰 [News Portal with Admin Dashboard](https://github.com/abdulalim1010/news-dashboard)
 - 🎓 [School Website with Gallery & Time Table](https://github.com/abdulalim1010/school-web)
-- 📂 [Portfolio with Dark Mode & Animations](https://github.com/abdulalim1010/my-portfolio)
+- 📂 [Portfolio with Dark Mode & Animations](My Portfolio](https://portfolio-ec476.web.app/)
 
 
 ---
