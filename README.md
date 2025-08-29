@@ -52,7 +52,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-alim-436464236/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/abdul.alim.75450)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](eee12016032.brur@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=whit)](http://www.eee12016032.brur@gmail.com)
 
 ---
 
