@@ -3,10 +3,7 @@
 ## MERN Stack Developer | Tech Enthusiast
 
 ![Profile Image](https://i.ibb.co.com/k628Wy8J/Abstract-Technology-Profile-Linked-In-Banner.png)
-<video width="600" height="200" autoplay muted loop playsinline>
-  <source src="https://drive.google.com/file/d/1e7rnctS9dleZVdI_npyo9lq7OdiWSJsa/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
 🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
