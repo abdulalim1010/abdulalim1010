@@ -4,6 +4,8 @@
 ## MERN Stack Developer | Tech Enthusiast
 
 ![Profile Image](https://i.ibb.co.com/k628Wy8J/Abstract-Technology-Profile-Linked-In-Banner.png)
+🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
+🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
 
 
 
