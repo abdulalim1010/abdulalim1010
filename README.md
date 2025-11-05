@@ -11,11 +11,6 @@
 
 ---
 
-### 💫 About Me
-- 🎓 Frontend Developer from Rangpur, Bangladesh
-- 🛠️ Working with React, Tailwind, Node.js, MongoDB, and Firebase
-- 📚 Currently learning advanced **Next.js** and **DevOps basics**
-- 🌱 Always open to collaborating on MERN Stack or modern web projects
 
 ---
 
