@@ -3,7 +3,7 @@
 
 ## MERN Stack Developer | Tech Enthusiast
 
-![Profile Image](https://i.ibb.co.com/ZzMFMdqT/Green-Tosca-Modern-Geometric-Web-Hosting-Service-Presentation.jpg)
+<img src="https://i.ibb.co/ZzMFMdqT/Green-Tosca-Modern-Geometric-Web-Hosting-Service-Presentation.jpg" alt="Profile Image" width="100%" />
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
 🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
