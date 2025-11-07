@@ -1,12 +1,15 @@
 ## Hi there 👋
 # 👋 Hi, I'm Md Abdul Alim
 
+# 👋 Hi, I'm Md Abdul Alim
+
 ## MERN Stack Developer | Tech Enthusiast
 
-<img src="https://i.ibb.co.com/ZzMFMdqT/Green-Tosca-Modern-Geometric-Web-Hosting-Service-Presentation.jpg" alt="Profile Image" width="100%" height="100%" />
+<img src="https://i.ibb.co.com/ZzMFMdqT/Green-Tosca-Modern-Geometric-Web-Hosting-Service-Presentation.jpg" alt="Profile Image" width="100%" style="height:auto;" />
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
 🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
+
 
 
 
