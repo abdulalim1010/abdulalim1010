@@ -46,8 +46,8 @@
 ---
 
 ### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulalim1010&show_icons=true&theme=tokyonight)
 
-![Alim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulalim1010&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalim1010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
