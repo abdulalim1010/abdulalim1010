@@ -9,8 +9,6 @@
 🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
 
 
-🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
-🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
 
 
 
