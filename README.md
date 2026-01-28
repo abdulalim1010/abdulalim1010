@@ -62,10 +62,11 @@
 ### 📫 Portfolio:
 **🌐 [My Portfolio](https://portfolio-ec476.web.app/)**
 
+---
+
 ### 🐍 Latest Contribution Graph Animation
 
+![Snake animation](https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.svg)
 
-
----##snake gift is not work perfectly
 
 
