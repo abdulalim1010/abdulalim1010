@@ -59,8 +59,8 @@
 
 ---
 
-### 📫 Portfolio:
-**🌐 [My Portfolio](https://portfolio-ec476.web.app/)**
+- 📂 [Portfolio with Dark Mode & Animations](https://portfolio-ec476.web.app/)
+
 
 ---
 
