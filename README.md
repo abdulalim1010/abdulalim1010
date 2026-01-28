@@ -66,7 +66,7 @@
 
 ### 🐍 Latest Contribution Graph Animation
 
-![snake gif](https://github.com/YOUR_USERNAME/abdulalim1010/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.gif)
 
 
 
