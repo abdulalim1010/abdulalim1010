@@ -66,7 +66,9 @@
 
 ### 🐍 Latest Contribution Graph Animation
 
-![snake gif](https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.gif)
+![Snake dark](https://raw.githubusercontent.com/abdulalim1010/abdulalim1010/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/abdulalim1010/abdulalim1010/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
 
