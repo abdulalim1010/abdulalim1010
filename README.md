@@ -62,11 +62,15 @@
 - 📂 [Portfolio with Dark Mode & Animations](https://portfolio-ec476.web.app/)
 
 
----
+------
 
 ### 🐍 Latest Contribution Graph Animation
 
-![Snake animation](https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
