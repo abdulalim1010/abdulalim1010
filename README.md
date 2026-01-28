@@ -66,10 +66,7 @@
 
 ### 🐍 Latest Contribution Graph Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://github.com/abdulalim1010/abdulalim1010/blob/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
 
