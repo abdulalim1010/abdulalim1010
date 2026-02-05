@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Abdul Alim
+
+## MERN Stack Developer | Tech Enthusiast## Hi there 👋
 
 
 <img src="https://i.ibb.co.com/j9gDtgBY/Screenshot-2025-12-04-013910.png" />
