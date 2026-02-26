@@ -1,5 +1,12 @@
 
 
+
+
+
+
+*** HI I AM ABDUL
+
+
 <img src="https://i.ibb.co.com/j9gDtgBY/Screenshot-2025-12-04-013910.png" />
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
