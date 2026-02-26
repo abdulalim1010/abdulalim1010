@@ -5,7 +5,7 @@
 
 
 *** HI I AM ABDUL
-
+**Full-Stack Web Developer**
 
 <img src="https://i.ibb.co.com/j9gDtgBY/Screenshot-2025-12-04-013910.png" />
 
