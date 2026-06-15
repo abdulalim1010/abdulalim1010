@@ -6,7 +6,7 @@
 # Hey there! I'm Abdul 👋  
 ### 🚀 Passionate Full-Stack Web Developer
 
-<img src="https://i.ibb.co.com/s91j3n8r/Untitled-design-2.png" />
+<img src="https://i.ibb.co.com/9mDN730n/Chat-GPT-Image-Jun-15-2026-07-43-12-PM.png" />
 
 🚀 **Full-Stack Web Developer** | 🌐 Passionate about building scalable web apps  
 🎯 Currently focused on **React**, **Tailwind CSS**, **Firebase**, **MongoDB**, and **Next.js**
